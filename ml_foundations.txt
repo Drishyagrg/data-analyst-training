@@ -1,0 +1,17 @@
+Terms for ml:
+
+overfitting -> remembers the pattern without leraning from that
+underfitting -> poor performance on both the training and test datasets
+
+bias and fairness in ml
+bias in ml
+
+sources of bias:
+- data bias
+- algorithmic bias
+- user interaction bias
+
+techniques of ensuring fairness:
+- preprocessing 
+- in processing
+- post processing
